@@ -1,0 +1,14 @@
+{
+  "name": "cad-it-test",
+  "version": "1.0.0",
+  "description": "test-cad-it",
+  "main": "task1-a.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rizkipermana",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
